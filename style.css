@@ -3,3 +3,8 @@ form * {
   width: 80%;
   margin: 1em;
 }
+
+#checkbox {
+  display:inline;
+
+}
